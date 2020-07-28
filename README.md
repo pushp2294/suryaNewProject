@@ -1,1 +1,1 @@
-# suryaNewProject
+# newProject
